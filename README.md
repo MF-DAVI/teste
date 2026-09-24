@@ -76,4 +76,4 @@
 | Situação | [ ] Pendente de validação  [X] Validado  [ ] Necessita revisão |
 | Validado por / data | Profª Kadidja Valéria / 10/09/2026 |
 | Observações e decisões | Senhas devem ser armazenadas com criptografia (hash seguro). |
-| Links relacionados | [RF01 no Documento Principal](https://github.com/MF-DAVI) |
+| Links relacionados | [RF01 no Documento Principal](https://github.com/jpedro-swe/Analise_Projeto_Sistema/blob/main/ProjetoAPS/Leiame.md) |
